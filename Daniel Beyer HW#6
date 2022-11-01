@@ -1,0 +1,5 @@
+Daniel Beyer
+
+I did not know github was a thing so it was interesting to see that there is a database for R which you can track changes and work with others on code. I'm still a bit confused on how to do things like starting my own repository or inviting others to work on the repository.
+
+Some of the tools Wilson et. al recommends for collaboration are having a project overview and deciding on communication strategies. Github is very convenient for this, as a document named README in a repository can serve as the project overview, and comits/pull requests can help make communicating between workers easier. 
